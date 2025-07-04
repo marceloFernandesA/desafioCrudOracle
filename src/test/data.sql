@@ -1,3 +1,4 @@
+
 INSERT INTO tb_client (name, cpf, income, birth_date, children)
 VALUES ('Isis Stella Marcela Nascimento', '01379042585', 2500, TO_DATE('06-02-1986', 'DD-MM-YYYY'), 1);
 
